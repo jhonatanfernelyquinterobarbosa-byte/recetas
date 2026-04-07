@@ -1,0 +1,98 @@
+body{
+    
+    
+    background-image: url(fondo.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    
+    text-align: center;
+color: rgb(37, 75, 180);
+font-family:Courier;
+font-style: oblique;
+font-weight: 900;
+font-size: 45px
+}
+h2{
+text-align: center;
+color: rgb(200, 194, 194);
+font-size: 30px
+
+}
+
+ol{
+text-align: center;
+list-style-position: inside;
+color: rgb(231, 235, 238);
+}
+
+li{
+font-size: 25px
+}
+
+div{
+
+width: 600px;
+border: 13px solid rgb(60, 164, 46);
+background-color: rgb(29, 26, 62);
+padding: 60px;
+margin: 50px;
+border-radius: 567px;
+}
+
+img{
+    border: 15px solid rgb(38, 131, 174) ;
+    border-radius: 500px;
+    width: 400px;
+    padding: 20px;
+display: block;
+    margin: auto;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
